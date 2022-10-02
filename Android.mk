@@ -6,4 +6,4 @@ LOCAL_PATH := $(call my-dir)
 
 ifneq ($(filter m52xq,$(TARGET_DEVICE)),)
 
-enfif
+endif
